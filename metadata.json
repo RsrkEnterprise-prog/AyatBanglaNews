@@ -1,0 +1,8 @@
+{
+  "name": "Ayat Bangla News & My Blog",
+  "description": "A comprehensive Indian Bengali news portal and technology blog focusing on West Bengal, Kolkata, national news, jobs, and governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
